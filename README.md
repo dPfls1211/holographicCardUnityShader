@@ -25,22 +25,22 @@
 
 <br>
 바람의 영향에 따른 날개 표현
-<br>
+
 ![바람날개](https://user-images.githubusercontent.com/76572665/215289243-4ea56bc8-a5d2-4292-842f-9913ff04e4e7.gif)
 
 <br>
 노이즈를 이용한 반짝임 표현
-<br>
+
 ![Uploading 반짝.gif…]()
 
 <br>
 스탠실
-<br>
+
 ![스탠실](https://user-images.githubusercontent.com/76572665/184395913-37e69715-38e0-4ff5-8b74-5a10611ec811.gif)
 
 <br>
 그 외 홀로그래픽 느낌 표현
-<br>
+
 ![hologram](https://user-images.githubusercontent.com/76572665/184396194-41eaa9ec-d2e9-4450-b2eb-4e545998894f.gif)
 
 
