@@ -22,9 +22,16 @@
     - Quad를 사용하여 메쉬를 조절하여 더 자연스러운 느낌 부여
 - noise이미지를 통해 반짝임을 표현
 - 나비의 경우 스탠실을 이용하여 공간감은 있지만, 2D로 보이게 표현
+바람의 영향에 따른 날개 표현
+![바람날개](https://user-images.githubusercontent.com/76572665/215289243-4ea56bc8-a5d2-4292-842f-9913ff04e4e7.gif)
 
+노이즈를 이용한 반짝임 표현
+![Uploading 반짝.gif…]()
+
+스탠실 및 
 ![스탠실](https://user-images.githubusercontent.com/76572665/184395913-37e69715-38e0-4ff5-8b74-5a10611ec811.gif)
 
+그 외 홀로그래픽 느낌 표현
 ![hologram](https://user-images.githubusercontent.com/76572665/184396194-41eaa9ec-d2e9-4450-b2eb-4e545998894f.gif)
 
 
