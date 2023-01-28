@@ -31,7 +31,8 @@
 <br>
 노이즈를 이용한 반짝임 표현
 
-![Uploading 반짝.gif…]()
+![반짝](https://user-images.githubusercontent.com/76572665/215289342-a34775d5-5c67-489b-b039-99536b8d25d9.gif)
+
 
 <br>
 스탠실
